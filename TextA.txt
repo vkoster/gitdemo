@@ -1,0 +1,15 @@
+# -----------------------------------------------------------------------------
+# Datei: TextA.txt
+# Autor: vkoster
+# -----------------------------------------------------------------------------
+
+Erste Zeile in Datei TextA.txt
+
+Dies ist ein Block,
+in der Mitte der Datei.
+
+{
+    Noch ein Block
+}
+
+Letzte Zeile in Datei TextA.txt
