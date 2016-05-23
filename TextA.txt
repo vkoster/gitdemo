@@ -14,7 +14,11 @@ in der Mitte der Datei.
 }
 
 {
+  # User2: hier muss noch was hin:
+  Pre-Text
     Noch ein Block
+  # User2: hier muss auch noch was hin:
+  Post-Text
 }
 
 Letzte Zeile in Datei TextA.txt
