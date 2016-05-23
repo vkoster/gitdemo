@@ -4,4 +4,8 @@
 # -----------------------------------------------------------------------------
 
 Erste Zeile in Datei TextB.txt
+# User1:
+{
+    Das wird ein toller Spass
+}
 Letzte Zeile in Datei TextB.txt
