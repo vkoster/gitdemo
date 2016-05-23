@@ -13,6 +13,7 @@ in der Mitte der Datei.
     Ein neuer Block von User2
 }
 
+# diesen Block verändert User1
 {
   # User2: hier muss noch was hin:
   Pre-Text
