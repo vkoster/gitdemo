@@ -13,8 +13,11 @@ in der Mitte der Datei.
     Ein neuer Block von User2
 }
 
+# diesen Block verändert User1
 {
-    Noch ein Block
+    Das muss noch davor
+    Noch ein Block (das ist auch neu)
+    Das muss noch dahiner
 }
 
 Letzte Zeile in Datei TextA.txt
