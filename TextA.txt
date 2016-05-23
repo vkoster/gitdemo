@@ -8,6 +8,11 @@ Erste Zeile in Datei TextA.txt
 Dies ist ein Block,
 in der Mitte der Datei.
 
+// Diese Änderung hat User2 herbeigeführt:
+{
+    Ein neuer Block von User2
+}
+
 {
     Noch ein Block
 }
