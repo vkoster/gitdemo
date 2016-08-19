@@ -1,5 +1,6 @@
 #Datei: README.md
 Projekt: gitdemo
+
 Autor: vkoster
 
 ##Beschreibung
@@ -18,4 +19,6 @@ Das este Commit wurde durchgeführt.
 ##Projekt Remote angelegt
 Das Projekt wurde leer auf GitHub erstellt
 Es wurde gefüllt, indem der loklale Stand nach origin/master gepusht wurde.
-
+##Projekt als Clone angelegt
+User2 hat sich das Projekt jetzt lokal geklont. 
+Dieser Colene liegt im Webstorm-Projekt "gitdemo2".
